@@ -1,0 +1,11 @@
+C:\Users\R_230_ROG\source\repos\WindowsFormsApp26\WindowsFormsApp26\bin\Release\WindowsFormsApp26.exe.config
+C:\Users\R_230_ROG\source\repos\WindowsFormsApp26\WindowsFormsApp26\bin\Release\WindowsFormsApp26.exe
+C:\Users\R_230_ROG\source\repos\WindowsFormsApp26\WindowsFormsApp26\bin\Release\WindowsFormsApp26.pdb
+C:\Users\R_230_ROG\source\repos\WindowsFormsApp26\WindowsFormsApp26\bin\Release\Guna.UI.dll
+C:\Users\R_230_ROG\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Release\WindowsFormsApp26.Form1.resources
+C:\Users\R_230_ROG\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Release\WindowsFormsApp26.Properties.Resources.resources
+C:\Users\R_230_ROG\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Release\WindowsFormsApp26.csproj.GenerateResource.cache
+C:\Users\R_230_ROG\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Release\WindowsFormsApp26.csproj.CoreCompileInputs.cache
+C:\Users\R_230_ROG\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Release\WindowsFormsApp26.csproj.CopyComplete
+C:\Users\R_230_ROG\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Release\WindowsFormsApp26.exe
+C:\Users\R_230_ROG\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Release\WindowsFormsApp26.pdb
